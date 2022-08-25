@@ -1,1 +1,1 @@
-// alert("Hola desde out.js")
+alert("Esta es una alerta con javascript pero en un archivo .js")
